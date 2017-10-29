@@ -17,7 +17,7 @@ public class AndroidAppTest {
 
     AndroidDriver driver = null;
     DesiredCapabilities dc = new DesiredCapabilities();
-    String testName = "Testing Android App - Java";
+    String testName = "Android App Test - Java";
     String accessKey = System.getenv("SEETEST_IO_ACCESS_KEY");
 
     @Before
