@@ -16,7 +16,7 @@ public class iOSAppTest {
 
     IOSDriver driver = null;
     DesiredCapabilities dc = new DesiredCapabilities();
-    String testName = "Testing iOS App - Java";
+    String testName = "Testing iOS App Java";
     String accessKey = System.getenv("SEETEST_IO_ACCESS_KEY");
 
     @Before
